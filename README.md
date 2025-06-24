@@ -2,7 +2,7 @@
 
 A minimalistic and modern portfolio website built with Next.js, featuring smooth animations, dark/light theme support, and a Japanese-inspired design philosophy.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/6366f1/ffffff?text=Portfolio+Preview)
+![Portfolio Preview](https://i.ibb.co/B2FPJgz6/Screenshot-2025-06-24-205954.png)
 
 ## ✨ Features
 
@@ -66,8 +66,8 @@ ashutosh-dev-portfolio/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ashutoshtiwari/portfolio.git
-   cd ashutosh-dev-portfolio
+   git clone https://github.com/DarkSword7/ashutosh-portfolio.git
+   cd ashutosh-portfolio
    ```
 
 2. **Install dependencies**
@@ -155,12 +155,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Contact
 
 - **Email**: ashutosh@example.com
-- **LinkedIn**: [linkedin.com/in/ashutoshtiwari](https://linkedin.com/in/ashutoshtiwari)
-- **GitHub**: [github.com/ashutoshtiwari](https://github.com/ashutoshtiwari)
-- **Portfolio**: [ashutoshtiwari.dev](https://ashutoshtiwari.dev)
+<!-- - **LinkedIn**: [linkedin.com/in/ashutoshtiwari](https://linkedin.com/in/) -->
+- **GitHub**: [github.com/ashutoshtiwari](https://github.com/darksword7)
+- **Portfolio**: [ashutoshtiwari.dev](https://ashutosh-tiwari.vercel.app/)
 
 ---
 
 ⭐ If you found this portfolio template helpful, please give it a star!
 
-Built with ❤️ by [Ashutosh Tiwari](https://github.com/ashutoshtiwari)
+Built with ❤️ by [Ashutosh Tiwari](https://github.com/darksword7)
