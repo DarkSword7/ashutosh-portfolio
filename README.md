@@ -2,7 +2,7 @@
 
 A minimalistic and modern portfolio website built with Next.js, featuring smooth animations, dark/light theme support, and a Japanese-inspired design philosophy.
 
-![Portfolio Preview](https://i.ibb.co/B2FPJgz6/Screenshot-2025-06-24-205954.png)
+![Portfolio Preview](https://dztmsgs5cd78i.cloudfront.net/c5x68q%2Fpreview%2F68408313%2Fmain_full.png?response-content-disposition=inline%3Bfilename%3D%22main_full.png%22%3B&response-content-type=image%2Fpng&Expires=1750780784&Signature=dEWbleyKUvPuRBGv4a4F6TC47uZPPCpNp-3f2WAG8pJBmfxxwEBgOe40JPtPidmeDI6z9YwXh9972ejrl1E6e93rwpPOXhVybVNiTdXVom3obxgrReaAZ7H99JvwCmtMCYXCe9UmniEDgcjw3-kvlegnGkfVQRYyD336hHZ~jBkOkAOaMfjiCXKEh-gJyFe~8mw1gwChn6DbRVT2JwUAjN6rJpIfB1SPSMMrrox4VQVUXqEQMr0isUiTzzwOA1OsywiY-8bFUOb7dZ~tezfNZ7yUgoCuHoH8B-oPw~krFOjI0npKnRY7ZMV7pDiQIntX8dnQYMnM9lEvMbf2bPHdRA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
 
 ## ✨ Features
 
