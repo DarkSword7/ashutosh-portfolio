@@ -49,7 +49,7 @@ export function HeroSection() {
   const downloadResume = () => {
     // In a real scenario, you'd put your actual resume file in the public folder
     // For now, this shows an alert. Replace with actual file path when ready.
-    const resumePath = "/public/Ashutosh_Tiwari_Resume.pdf";
+    const resumePath = "/Ashutosh_Tiwari_Resume.pdf";
 
     // Check if resume file exists, otherwise show instruction
     fetch(resumePath, { method: "HEAD" })
